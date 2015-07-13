@@ -1,0 +1,1 @@
+#MaNGOS is a C# recode of the MaNGOS educational World of Warcraft server suite project.
